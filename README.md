@@ -30,6 +30,8 @@ This project is the final capstone challenge for Udacity Data Science Nanodegree
 **4.	Contact**
 
   •	Project link: https://github.com/LyNguyen98/StarbucksReward
+  •	Medium blog: https://medium.com/@lynguyen.huong98/evaluating-starbucks-rewards-strategy-5cdc521389aa?fbclid=IwAR3smvoB7bplsjK64hiukMOwgN55i9OI_fZst5hfFelZa6t2SAFbNOaZdNA
+  
   
 **5.	Acknowledgement:**
 
