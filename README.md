@@ -1,4 +1,4 @@
-# Disaster Response
+# Starbucks Reward
 
 **1. About the project**
 
